@@ -49,4 +49,4 @@ This project predicts sales for different products at various outlets using a su
 
 ## 📌 Author
 
-- Archita Agarwal
+- Divyansh Sehrawat
